@@ -1,3 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300;400&display=swap');
+
+#pain2vie-logo {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.3em;
+}
+
+#pain2vie-association {
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin-bottom: 1.1em;
+  font-size: 3.2em;
+  text-transform: uppercase;
+}
+
+#matthieu10v8 {
+  font-size: 0.7em;
+}
+
+#menu {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
 .App {
   text-align: center;
 }
